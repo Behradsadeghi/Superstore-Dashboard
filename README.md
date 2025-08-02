@@ -2,6 +2,9 @@
 
 This interactive Tableau dashboard provides a comprehensive **year-over-year performance comparison** for a fictional retail company across **Sales**, **Profit**, **Orders**, and **Customers**.
 
+![Dashboard Preview](Dashboard_Finish.png)
+
+
 🔗 **Live Dashboard**:  
 👉 [View on Tableau Public](https://public.tableau.com/app/profile/behrad.sadeghi/viz/SuperstoreDashboardBuild_17536665934480/Dashboard2_2Finish)
 
